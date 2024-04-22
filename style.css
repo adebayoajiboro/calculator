@@ -7,7 +7,7 @@ body{
     background-color: hsl(0 0%, 95%);
 }
 
-#calculator{
+#parent{
     font-family: Arial, Helvetica, sans-serif;
     background-color: hsl(0 0%, 15%);
     border-radius: 15px;
